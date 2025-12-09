@@ -1,7 +1,5 @@
 file_path = "input.txt"
 
-
-
 with open(file_path, 'r') as file:
     count = 0
     beams = set()

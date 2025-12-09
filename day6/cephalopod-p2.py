@@ -42,5 +42,4 @@ with open(file_path, 'r') as file:
         sol += result[0]
         index = result[1]
 
-
 print(sol)
